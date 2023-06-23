@@ -169,7 +169,7 @@ Essa modularidade facilita o desenvolvimento, a manutenção e a escalabilidade 
 
 
                 ))}
-                <Modal isOpen={isModalOpen} onClose={closeModal} content={selectedItem} />
+                <Modal isOpen={isModalOpen} onClose={closeModal} content={null}  />
             </div>
                 </div>
         </>
