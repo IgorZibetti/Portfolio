@@ -19,8 +19,8 @@ const MainHome = () => {
         <div className="flex flex-col">
           <span data-aos="fade-up" className="flex font-normal text-zinc-800 text-xl gap-5 lg:text-xl 2xl:text-5xl">Olá, meu nome é Igor
             <Link target="_blank" href='https://github.com/IgorZibetti' ><motion.div whileHover={{ scale: 1.2}}><AiFillGithub /></motion.div></Link >
-            <Link target="_blank" href='https://www.linkedin.com/in/igor-marcelo-6b083a205/' ><motion.div whileHover={{ scale: 1.2}}><AiFillLinkedin /></motion.div></Link >
-            <Link target="_blank" href='https://drive.google.com/file/d/1xunYGwkg2IuIzL-YInK5Ux4C90O-vPWV/view?usp=drive_link' ><motion.div whileHover={{ scale: 1.2}}><AiFillFilePdf /></motion.div></Link >
+            <Link target="_blank" href='https://www.linkedin.com/in/IgorZibetti/' ><motion.div whileHover={{ scale: 1.2}}><AiFillLinkedin /></motion.div></Link >
+            <Link target="_blank" href='https://drive.google.com/file/d/1JLjM_bQBd5YTxSLI-baDvy85TF7XsMh0/view?usp=drive_link' ><motion.div whileHover={{ scale: 1.2}}><AiFillFilePdf /></motion.div></Link >
           </span>
           <h1 data-aos="fade-up" className="font-black flex text-xl md:text-1xl 2xl:text-6xl">
             {`<Desenvolvedor Front-End `}
